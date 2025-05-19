@@ -39,7 +39,7 @@ chalk (Colorful console output)
 
 🎮 Try It Yourself!
 bash
-git clone https://github.com/your-username/js-slot-machine.git
+git clone https://github.com/GhostFox-code2305/js-slot-machine.git
 cd js-slot-machine
 npm install
 node slotmachine.js
